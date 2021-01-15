@@ -8,6 +8,7 @@ This is my Frist Project and I am excited to share the code and the learning fro
 Channel Link: [Coder\\\Ank22](https://www.youtube.com/channel/UCJwpwQ_21fFU0gifQamWuGw)
 
 > ## Versions
-> * 0.0.0  INIT of README
-> * 0.0.1 Added Description in README with Link and YouTube Channel 
-> * 0.0.2 INIT React Project
+> * V0.0.0  INIT of README
+> * V0.0.1 Added Description in README with Link and YouTube Channel 
+> * V0.0.2 INIT React Project
+> * V0.0.3 Self Exploration of Code and changed some text and background color
